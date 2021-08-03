@@ -1,12 +1,12 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hanglesson.hanglesson)
 ## Meu GitHub Stats
 
-<div width="100%">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=hanglesson&count_private=true&show_icons=true&theme=radical" />
+<div>
+  <a href="https://github.com/hanglesson/">
+    <img width="45%" height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=hanglesson&count_private=true&show_icons=true&theme=radical" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanglesson&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/hanglesson/">
+    <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanglesson&layout=compact&langs_count=7&theme=radical"/>
   </a>
 </div>
 
